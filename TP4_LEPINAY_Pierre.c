@@ -109,6 +109,7 @@ int main()
 	//creer_fichier(nom);
 	initialiser_matrice(mat);
 	printf("la partie commence\n");
+	printf("juste pour le TP de git");
 
 	do{
 		joueur=tour%2;
